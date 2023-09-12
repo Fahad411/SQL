@@ -7,7 +7,7 @@ SQLite using Python and how you can execute queries .
 
 We have 6 tables in this project
 
-\**You can changed the data according to your will**/
+**You can changed the data according to your will*
 
 And we have hare 5 Select Queries For more than one type of selection
 and we have Delete Query For one type 
