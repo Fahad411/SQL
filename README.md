@@ -15,7 +15,7 @@ and we have Delete Query For one type
 If you have any questionscontact me on...
 
 **Twitter: @s4cript**
-.
+OR
 **Telegrm: @s4cript**
 
 **Thank you for read** 
