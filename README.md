@@ -1,6 +1,6 @@
 # **Tuwaiq Academy**
 
-this is the first project for SQLite with Python
+This is the first project for SQLite with Python
 The purpose of this project is to learn and know how to create a database
 SQLite using Python and how you can execute queries .
 
