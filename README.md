@@ -10,9 +10,10 @@ We have 6 tables in this project
 *You can changed the data according to your will*
 
 And we have hare 5 Select Queries For more than one type of selection
-and we have Delete Query For one type 
+and we have Delete Query For one type
+and Update Query with using 'Where'
 
-If you have any questionscontact me on...
+If you have any questions contact me on...
 
 **Twitter: @s4cript**
 OR
